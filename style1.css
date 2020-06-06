@@ -1,0 +1,22 @@
+<style>
+		
+		body {}
+		h1   {	color:#ff1a1a;
+				background-color:black;
+				margin-left:10px;}
+		p    {background-color:#cc5a12;}
+		address {background-color:#cc5a12;}
+		table { margin-left:10px;
+				border-spacing:4px;
+				border: 1px solid black;
+				width:100%;
+		}
+		table, th, td {
+				text-align:left;
+				padding:20px;
+		}
+	*{ 	
+		border-spacing:10px;
+		border-radius:8px;}
+
+</style>
